@@ -10,3 +10,11 @@ Sub-routines:
 3. cestMapsFitLorModel.m - Generate CEST contrast maps by fitting an N-pool Lorentzian-lineshape model to densely-sampled brain CEST-MRI data
 4. cestSpectraMTR.m - Generate spectra: CEST and MTR asym
 5. cestSpectraFitLorModel.m - Decompose CEST spectra into N-pools with Lorentzian-lineshape modeling
+
+**Screenshots:**
+
+Simple GUI for quick assessment of quality of the data
+![](https://github.com/almostdutch/CEST-processing-routines-in-MATLAB/blob/master/test-data/gui.jpg)
+
+Analysis of densely-sampled CEST spectra in terms of Lorentzian-lineshape basis functions
+![](https://github.com/almostdutch/CEST-processing-routines-in-MATLAB/blob/master/test-data/CEST_Npool_lorFitting.jpg)
